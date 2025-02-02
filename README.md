@@ -54,7 +54,7 @@ Choose the amount of RAM to allocate to the virtual machine. It’s recommended 
 
 
 
-<img src="">
+<img src="Folder/met5.jpg">
 
 
 
@@ -62,6 +62,10 @@ Choose the amount of RAM to allocate to the virtual machine. It’s recommended 
 .
 
 Select the option to use an existing virtual hard disk file. This allows you to connect a pre-configured virtual drive.
+
+
+
+<img src="">
 
 
 
