@@ -99,6 +99,9 @@ Now save the file and you will see that the instance is created with the name yo
 You’re all set! Simply click the "Start" button at the top to initiate the machine. Wait as it boots up and loads the instance, preparing your virtual environment for use.
 
 
+<img src="Folder/met10.png">
+
+
 
 <h2>Process 7</h2>
 .
@@ -107,7 +110,10 @@ After the instance has finished loading, you’ll be prompted to enter a login n
 
 Login Name: msfadmin
 
-Password: msfadmin
+Password: msfadmin 
+
+
+<img src="">
 
 
 When you finished logging in with the provided credentials, then you’ll gain access to the machine, completing the installation process successfully.
