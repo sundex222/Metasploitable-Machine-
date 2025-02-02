@@ -113,7 +113,7 @@ Login Name: msfadmin
 Password: msfadmin 
 
 
-<img src="">
+<img src="Folder/met11.jpg">
 
 
 When you finished logging in with the provided credentials, then you’ll gain access to the machine, completing the installation process successfully.
