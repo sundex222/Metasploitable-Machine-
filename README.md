@@ -92,7 +92,7 @@ Now save the file and you will see that the instance is created with the name yo
 
 
 
-<img src="">
+<img src="Folder/met9.jpg">
 
 
 
