@@ -29,7 +29,7 @@ After downloading Metasploitable, the next step is to extract the compressed fil
 Click on the "New" option in VirtualBox to create a new virtual machine and begin the setup process.
 
 
-<img src="">
+<img src="Folder/met3.jpg">
 
 
 A window will pop up, asking you to enter the details for your virtual machine. Enter the following information:
@@ -39,6 +39,9 @@ Name: Choose a name of your preference.
 Path: Keep the default recommended path.
 
 Version: Select "Other (64-bit)."
+
+
+<img src="">
 
 
 
