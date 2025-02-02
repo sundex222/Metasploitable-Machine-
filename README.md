@@ -10,6 +10,9 @@ Metasploitable is a deliberately vulnerable virtual machine (VM) designed for te
 
 Download Metasploitable from reliable sources, such as Rapid7's official website, and select the appropriate version. Ensure you have a stable internet connection, and verify the download to prevent corrupted files, ensuring secure usage.
 
+<img src="Folder/met1.jpg">
+
+
 
 
 <h2>Process 2</h2>
